@@ -2,10 +2,10 @@ const prices = [
   {
     title: "Проявка",
     items: [
-      { name: "C-41 / 35мм", price: "350 ₽" },
-      { name: "C-41 / 120", price: "400 ₽" },
-      { name: "ЧБ / 35мм", price: "400 ₽" },
-      { name: "E-6 / 35мм", price: "500 ₽" },
+      { name: "C-41 / 35мм", price: "1000 ₽" },
+      { name: "C-41 / 120", price: "1000 ₽" },
+      { name: "ЧБ / 35мм", price: "800 ₽" },
+      { name: "E-6 / 35мм", price: "1000 ₽" },
     ],
   },
   {
