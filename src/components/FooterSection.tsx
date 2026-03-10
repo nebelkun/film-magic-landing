@@ -14,29 +14,29 @@ const FooterSection = () => {
 
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-16">
           <a
-            href="mailto:hello@filmlab.ru"
-            className="inline-block bg-primary text-primary-foreground px-8 py-4 text-sm tracking-[0.15em] uppercase font-medium hover:opacity-90 transition-opacity"
-          >
+
+            className="inline-block bg-primary text-primary-foreground px-8 py-4 text-sm tracking-[0.15em] uppercase font-medium hover:opacity-90 transition-opacity" href="mailto:internetworm@narod.ru">
+            
             Написать нам
           </a>
           <a
-            href="https://t.me/filmlab"
+
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-block border border-primary text-primary px-8 py-4 text-sm tracking-[0.15em] uppercase font-medium hover:bg-primary hover:text-primary-foreground transition-colors"
-          >
+            className="inline-block border border-primary text-primary px-8 py-4 text-sm tracking-[0.15em] uppercase font-medium hover:bg-primary hover:text-primary-foreground transition-colors" href="https://t.me/kulturaphoto">
+            
             Telegram
           </a>
         </div>
 
         <div className="border-t border-border pt-8">
           <p className="text-muted-foreground text-xs tracking-wider">
-            © 2026 Film Lab. Все кадры проявлены с любовью.
+            © 2026 Культура Пленки. Все кадры проявлены с любовью.
           </p>
         </div>
       </div>
-    </footer>
-  );
+    </footer>);
+
 };
 
 export default FooterSection;
