@@ -15,7 +15,7 @@ const FooterSection = () => {
         <div className="flex flex-col sm:flex-row gap-4 justify-center mb-10">
           <a
             href="mailto:internetworm@narod.ru"
-            className="inline-block bg-primary text-primary-foreground px-8 py-4 text-sm tracking-[0.15em] uppercase font-medium hover:opacity-90 transition-opacity">
+            className="inline-block border border-primary text-primary px-8 py-4 text-sm tracking-[0.15em] uppercase font-medium hover:bg-primary hover:text-primary-foreground transition-colors">
             
             Написать нам
           </a>
