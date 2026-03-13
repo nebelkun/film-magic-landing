@@ -35,18 +35,9 @@ const FooterSection = () => {
           </a>
         </div>
 
-        <p className="text-muted-foreground text-sm mb-10">г. Саратов, ул. Чернышевского 94, корпус 3, 2 этаж фотостудия "Культура"</p>
+        <p className="text-muted-foreground text-sm mb-16">г. Саратов, ул. Чернышевского 94, корпус 3, 2 этаж фотостудия "Культура"
 
-        <div className="mb-16 flex justify-center">
-          <iframe
-            src="https://yandex.ru/map-widget/v1/?um=constructor%3A3e1dc4f1df3bc517c72333173b99ba66505733cb8ad5f12b05ea1dd6134a55d4&amp;source=constructor"
-            width="480"
-            height="480"
-            frameBorder="0"
-            className="w-full max-w-[480px]"
-            allowFullScreen
-          />
-        </div>
+        </p>
 
         <div className="border-t border-border pt-8">
           <p className="text-muted-foreground text-xs tracking-wider">
