@@ -38,7 +38,7 @@ const FooterSection = () => {
         <p className="text-muted-foreground text-sm mb-16">г. Саратов, ул. Чернышевского 94, корпус 3, 2 этаж фотостудия "Культура"
 
         </p>
-<script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A3e1dc4f1df3bc517c72333173b99ba66505733cb8ad5f12b05ea1dd6134a55d4&amp;width=480&amp;height=480&amp;lang=ru_RU&amp;scroll=true"></script>
+
         <div className="border-t border-border pt-8">
           <p className="text-muted-foreground text-xs tracking-wider">
             © 2026 Культура Пленки. Все кадры проявлены с любовью.
