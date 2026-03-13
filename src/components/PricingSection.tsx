@@ -45,6 +45,10 @@ const PricingSection = () => {
             </div>
           ))}
         </div>
+
+        <p className="text-secondary-foreground/70 text-sm md:text-base text-center max-w-2xl mx-auto mt-12 leading-relaxed">
+          Срок выполнения заказа от 1 до 12 дней. В зависимости от накопления плёнок. Проявляем по воскресеньям практически каждую неделю. Нам потребуется некоторое время, чтобы сократить срок выполнения до нескольких часов.
+        </p>
       </div>
     </section>
   );
