@@ -15,7 +15,7 @@ const HeroSection = () => {
 
       <div className="relative z-10 container mx-auto px-6 text-center">
         <p className="text-primary font-light tracking-[0.3em] uppercase text-sm mb-6 font-body">
-          Фотолаборатория Культура Пленки
+          фотолаборатория "Культура Пленки"
 
 
 
